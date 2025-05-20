@@ -1,2 +1,2 @@
 # Coding-1-Final
- These are the starter files for F2021 Coding 1 Final
+ This is my Coding 1 Final. I decided to create a site showcasing Calico Critters for my final because I thoroughly enjoy them. On my home page, there is a carousel showing a family of koalas, some school animals, and some fairies. Beneath the carousel, there are three cards showing them individually with a small description beneath them. Next is the Contact page. On this page, I was a little stumped for what to add, but decided to just add my contact information (excluding my real phone number). Finally, I added the About Me page. There, I inserted a picture of the Calico Critters logo and beneath it a small paragraph that describes where my inspiration for the page originated.
